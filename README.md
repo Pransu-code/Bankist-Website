@@ -1,9 +1,6 @@
 # BANKIST PORTAL V1
 
 This is the first version V1 of this banking website, UI is 100% functional.
-
-Here's a comprehensive README template for your Bankist project, which you can customize as needed:
-
 ---
 
 # Bankist
