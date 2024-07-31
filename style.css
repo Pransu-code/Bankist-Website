@@ -96,8 +96,15 @@
     transition: all 0.3s;
   }
   
+  /* .testimonial__author{
+    text-align: justify;
+  } */
+  blockquote{
+    text-align: justify;
+  }
   p {
     color: #666;
+    text-align: justify;
   }
   
   /* This is BAD for accessibility! Don't do in the real world! */
