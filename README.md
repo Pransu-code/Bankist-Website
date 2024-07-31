@@ -12,6 +12,21 @@ Here's a comprehensive README template for your Bankist project, which you can c
 
 **Bankist** is a minimalistic yet feature-rich web application that provides users with a seamless banking experience. Built using JavaScript, HTML, and CSS, Bankist allows users to open accounts, manage their finances, and perform various banking operations through an aesthetically pleasing and user-friendly interface.
 
+## Demo
+
+https://bankistportal.netlify.app/
+
+## Screenshots
+
+![1](assets/1.png)
+![2](assets/2.png)
+![3](assets/3.png)
+![4](assets/4.png)
+![5](assets/5.png)
+![6](assets/6.png)
+![7](assets/7.png)
+
+
 ## Features to be implemented i V2
 
 - User Registration and Account Creation
@@ -29,19 +44,6 @@ Here's a comprehensive README template for your Bankist project, which you can c
 - CSS
 - JavaScript
 
-## Demo
-
-https://bankistportal.netlify.app/
-
-## Screenshots
-
-![1](assets/1.png)
-![2](assets/2.png)
-![3](assets/3.png)
-![4](assets/4.png)
-![5](assets/5.png)
-![6](assets/6.png)
-![7](assets/7.png)
 
 ## Getting Started
 
