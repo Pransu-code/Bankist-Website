@@ -72,7 +72,7 @@ tabsContainer.addEventListener('click',function(e){
   // }
 
   const clicked = e.target.closest('.operations__tab');
-  console.log(clicked);
+  // console.log(clicked);
   if(!clicked) return;
   //active tab
   tabs.forEach(tb => tb.classList.remove('operations__tab--active'));
